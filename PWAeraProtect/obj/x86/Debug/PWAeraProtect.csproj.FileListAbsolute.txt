@@ -1,0 +1,9 @@
+D:\PW\PWAeraProtect\PWAeraProtect\bin\Debug\PWAeraProtect.exe
+D:\PW\PWAeraProtect\PWAeraProtect\bin\Debug\PWAeraProtect.pdb
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\PWAeraProtect.Form1.resources
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\PWAeraProtect.Properties.Resources.resources
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\ResGen.read.1.tlog
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\ResGen.write.1.tlog
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\PWAeraProtect.exe
+D:\PW\PWAeraProtect\PWAeraProtect\obj\x86\Debug\PWAeraProtect.pdb
